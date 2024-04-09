@@ -1,8 +1,14 @@
 # 8086-and-8051-lab-programs
+- Assembly Programs for 8086 are performed in `EMU8086` and programs for 8051 are performed in .........
+ 
+### Installation of EMU8086.
+- Download above `emu8084v408.zip` file.
+- Extract all files.
+- Run setup.exe file.
+- Follow instructions.
+- Successfully installed.
 
 ## 8086 Microprocessor Programs
-- These are performed in `EMU8086`. **Install EMU8086 by above given file.**
-
 1. Arithmetic & Logical Operations
 2. Add Three 16-bit Numbers
 3. Subtract Two 8-bit Numbers
