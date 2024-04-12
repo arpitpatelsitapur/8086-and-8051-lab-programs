@@ -9,12 +9,12 @@
 - Successfully installed.
 
 ## 8086 Microprocessor Programs
-1. Arithmetic & Logical Operations
-2. Add Three 16-bit Numbers
-3. Subtract Two 8-bit Numbers
-4. Multiply Two 16-bit Numbers
-5. Divide Two Numbers (16-bit Numerator)
-6. BCD to Binary Conversion
+1. Assembly language program for Arithmetic & Logical Operations
+2. Assembly language program to Add Three 16-bit Numbers
+3. Assembly language program to Subtract Two 8-bit Numbers
+4. Assembly language program to Multiply Two 16-bit Numbers
+5. Assembly language program to Divide Two Numbers (16-bit Numerator)
+6. Assembly language program for BCD to Binary Conversion
 
 ### Installation of KEIL-uVision5.
 - visit webpage-[https://www.keil.com/demo/eval/c51.htm].
@@ -25,11 +25,11 @@
 
 ## 8051 Microcontroller Programs
 
-1. Add Two 8-bit Numbers
-2. Subtract Two 8-bit Numbers
-3. Multiply Two 8-bit Numbers
-4. Divide Two Numbers (16-bit Numerator)
-5. Serial Communication Implementation
+1. Assembly language program to Add Two 8-bit Numbers
+2. Assembly language program to Subtract Two 8-bit Numbers
+3. Assembly language program to Multiply Two 8-bit Numbers
+4. Assembly language program to Divide Two Numbers (16-bit Numerator)
+5. Assembly language program for Serial Communication Implementation
 
 
 
