@@ -14,7 +14,7 @@
 3. Assembly language program to Subtract Two 8-bit Numbers
 4. Assembly language program to Multiply Two 16-bit Numbers
 5. Assembly language program to Divide Two Numbers (16-bit Numerator)
-6. Assembly language program for BCD to Binary Conversion([yooutube video](https://www.youtube.com/watch?v=qclmd7OYypk))
+6. Assembly language program for BCD to Binary Conversion([youtube video](https://www.youtube.com/watch?v=qclmd7OYypk))
 
 ### Installation of KEIL-uVision5.
 - visit webpage-[https://www.keil.com/demo/eval/c51.htm].
