@@ -7,7 +7,8 @@
 - Run setup.exe file.
 - Follow instructions.
 - Successfully installed.
-- use license key if required (as free use expires after 7 days)-```User: ISHAAN,glaitm
+- use license key if required (as free use expires after 7 days)-
+- ```User: ISHAAN,glaitm
 Key: 27R3VDEFYFX4N0VC3FRTQZX```
 
 ## 8086 Microprocessor Programs
